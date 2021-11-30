@@ -1,1 +1,37 @@
-asdfsdafsdafsda
+{
+  "posts": [
+    {
+      "id": "af6af9a3-f5dc-3a8d-95ec-21edef3ee7aa",
+      "title": "MSO8000_QuickGuide_zh1",
+      "publicationId": 14935,
+      "binaryId": 2000000000,
+      "url": "binary/14935/2000000000/mso8000-quickguide-zh/user-manual-rigol-pdf-zh",
+      "downloadUrl": "https://szcds.rigoltech.com:8081/cd/api/binary/2/14935/2000000000",
+      "path": "14935-2000000000-16.pdf",
+      "type": ".pdf"
+    },
+    {
+      "id": "7a4ebb23-7750-3f25-a678-294fa2f71ded",
+      "title": "MSO8000_QuickGuide_zh1",
+      "publicationId": 14935,
+      "binaryId": 2000000001,
+      "url": "binary/14935/2000000001/mso8000-quickguide-zh/user-manual-rigol-pdf-datesheet-zh",
+      "downloadUrl": "https://szcds.rigoltech.com:8081/cd/api/binary/2/14935/2000000001",
+      "path": "14935-2000000001-16.pdf",
+      "type": ".pdf"
+    },
+    {
+      "id": "268d5322-30ac-333c-a91f-161cdee3542d",
+      "title": "MSO8000_QuickGuide_zh1",
+      "publicationId": 14935,
+      "binaryId": 2000000002,
+      "url": "binary/14935/2000000002/mso8000-quickguide-zh/user-manual-web-help-tri-pane-zh",
+      "downloadUrl": "https://szcds.rigoltech.com:8081/cd/api/binary/2/14935/2000000002",
+      "path": "14935-2000000002-16.zip",
+      "type": ".zip"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
